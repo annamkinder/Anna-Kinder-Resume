@@ -1,16 +1,77 @@
-<h1> Technical Skills and Certifications </h1>
-Please click on the drop-down arrows below to see a description of the technical knowledge gained and proof of completion for each skill.
-<h2> Technical Skills </h2>
+<h1> Technical Skills </h1>
+Click on the drop-down menus below to see a description of each technical skill
+
+<h2> Skills </h2>
+
+<details><summary>GITHUB</summary>
+  <h4> Description: </h4>
+  I completed the introductory GitHub learning labs, "First Day on GitHub" and "First Week on GitHub", offered on the GitHub website:
+  https://lab.github.com/courses
+  
+  **Lessons Completed:**
+  <ul>
+    <li>Introduction to GitHub</li>
+    <li>Communicating Using Markdown</li>
+    <li>Uploading Projects to GitHub</li>
+    <li>Creating a GitHub Homepage</li>
+    <li>Merging Pull Requests</li>
+    <li>Reviewing Pull Requests</li>
+    <li>Managing Merge Conflicts</li>
+    <li>Securing Workflows</li>
+  </ul>
+  
+</details>
+
+<br>
+
+<details><summary>PowerBI</summary>
+  <h4> Description: </h4>
+  
+</details>
+
+<br>
+
+<br>
+
+<details><summary>Linux</summary>
+  <h4> Description: </h4>
+  
+</details>
+
+<br>
+
+<br>
+
+<details><summary>IPSec and OpenVPN</summary>
+  <h4> Description: </h4>
+  
+</details>
+
+<br>
+
+<br>
 
 <details><summary>AMAZON WEB SERVICES (AWS)</summary>
   <h4> Description: </h4>
-I completed the AWS Cloud Practitioner Essentials course offered by Amazon:
-https://www.aws.training/learningobject/curriculum?id=16357
+  
 </details>
+
 <br>
+
 <br>
-<details><summary>GITHUB</summary>
+
+<details><summary>PowerShell</summary>
   <h4> Description: </h4>
-I completed the introductory GitHub learning labs offered on the GitHub website:
-https://lab.github.com/courses
-  </details>
+  
+</details>
+
+<br>
+
+<br>
+
+<details><summary>Salesforce</summary>
+  <h4> Description: </h4>
+  
+</details>
+
+
