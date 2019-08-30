@@ -1,9 +1,7 @@
 theme: minimal
-title: Anna Kinder's Resume
 author: Anna Kinder
 email: annamkinder@yahoo.com
-description: > # this means to ignore newlines until "baseurl:"
-  Listed below are the technical skills I acquired as a Computer Information Systems major at The University of Tulsa.
+phone: 314-605-1640
 
 # social links
 github_username:  annamkinder
