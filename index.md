@@ -3,7 +3,7 @@ Click on the drop-down menus below to see a description of each technical skill
 
 <h2> Skills </h2>
 
-<details><summary>GITHUB</summary>
+<details><summary>GitHub</summary>
   <h4> Description: </h4>
   I completed the introductory GitHub learning labs, "First Day on GitHub" and "First Week on GitHub", offered on the GitHub website:
   https://lab.github.com/courses
@@ -51,7 +51,7 @@ Click on the drop-down menus below to see a description of each technical skill
 
 <br>
 
-<details><summary>AMAZON WEB SERVICES (AWS)</summary>
+<details><summary>Amazon Web Services (AWS)</summary>
   <h4> Description: </h4>
   
 </details>
