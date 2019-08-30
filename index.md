@@ -23,6 +23,7 @@ Click on the drop-down menus below to see a description of each technical skill
 </details>
 
 <br>
+<br>
 
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
