@@ -19,6 +19,8 @@ Click on the drop-down menus below to see a description of each technical skill
     <li>Managing Merge Conflicts</li>
     <li>Securing Workflows</li>
   </ul>
+  <img src="github1.png" alt="Github photo">
+  <img src="github2.png" alt="Github photo">
   
 </details>
 
