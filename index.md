@@ -7,7 +7,7 @@ Click on the drop-down menus below to see a description of each technical skill
   <h4> Description: </h4>
   I completed the introductory GitHub learning labs, "First Day on GitHub" and "First Week on GitHub", offered on the GitHub website:
   https://lab.github.com/courses
-  <br>
+  
   **Lessons Completed:**
   <ul>
     <li>Introduction to GitHub</li>
@@ -35,6 +35,7 @@ Click on the drop-down menus below to see a description of each technical skill
   **Proof of Completion:**
   <br>
   <a href="Course | DAT207x | edX.pdf">edX Course</a>
+  
   Dashboard
   
   
