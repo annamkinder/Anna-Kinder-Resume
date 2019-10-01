@@ -36,7 +36,7 @@ Click on the drop-down menus below to see a description of each technical skill
   <br>
   <a href="Course | DAT207x | edX.pdf">edX Course</a>
   
-  Dashboard
+  <a href="https://youtu.be/BKjC5Wvp-Rc">Dashboard Tour</a>
   
   
   
