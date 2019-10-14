@@ -78,7 +78,7 @@ Click on the drop-down menus below to see a description of each technical skill
   
   **Proof of Completion:**
   <br>
-  <img src="LinuxCert.pdf" alt="Linux Photo">
+  <a href="LinuxCert.pdf">Linux Certification</a>
   
 </details>
 
