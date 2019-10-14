@@ -75,6 +75,7 @@ Click on the drop-down menus below to see a description of each technical skill
     <li>Special Directories and Files</li>
   </ul>
   <br>
+  
   **Proof of Completion:**
   <br>
   <img src="LinuxCert.png" alt="Linux Photo">
