@@ -88,6 +88,11 @@ Click on the drop-down menus below to see a description of each technical skill
 
 <details><summary>IPSec and OpenVPN</summary>
   <h4> Description: </h4>
+  I configured a VPN in the cloud using the Algo VPN Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added/removed users.
+  
+  <br>
+   **Proof of Completion:**
+   <img src="AlgoVpn.png" alt="Algo VPN">
   
 </details>
 
