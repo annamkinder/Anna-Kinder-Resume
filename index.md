@@ -113,6 +113,13 @@ Click on the drop-down menus below to see a description of each technical skill
 
 <details><summary>PowerShell</summary>
   <h4> Description: </h4>
+  I completed LinkedIn's Premium PowerShell 5 Essential Training. In this training I learned install Windows Management Framework 5, run commands, discover commands, find and use local modules, select, store, and filter object data, create scripts, automate tasks, and use PowerShell remotely. 
+  
+  <br>
+  <br>
+  
+   **Proof of Completion:**
+   <img src="PowershellCert.pdf" alt="Powershell">
   
 </details>
 
