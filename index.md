@@ -119,7 +119,7 @@ Click on the drop-down menus below to see a description of each technical skill
   <br>
   
    **Proof of Completion:**
-   <img src="PowershellCert.pdf" alt="Powershell">
+   <img src="PowershellCert.png" alt="Powershell">
   
 </details>
 
