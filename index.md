@@ -1,5 +1,4 @@
-<h1> Anna Kinder's </h1>
-<h1> Technical Skills </h1>
+<h1> Anna Kinder's Technical Skills </h1>
 Welcome to my Technical Skills Resume. Click on the drop-down menus below to see a description of each technical skill
 
 <h2> Skills </h2>
