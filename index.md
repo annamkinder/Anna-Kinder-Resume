@@ -1,12 +1,12 @@
+<h1> Anna Kinder's </h1>
 <h1> Technical Skills </h1>
-Click on the drop-down menus below to see a description of each technical skill
+Welcome to my Technical Skills Resume. Click on the drop-down menus below to see a description of each technical skill
 
 <h2> Skills </h2>
 
 <details><summary>GitHub</summary>
   <h4> Description: </h4>
-  I completed the introductory GitHub learning labs, "First Day on GitHub" and "First Week on GitHub", offered on the GitHub website:
-  https://lab.github.com/courses
+  I completed the introductory GitHub learning labs, "First Day on GitHub" and "First Week on GitHub", offered on the <a href="https://lab.github.com/courses">Github Website</a>. This training helped me to learn the basics needed to create my own Technical Resume on Github. I learned how to communicate with other users on Github to find help or inspiration. I learned how to create my own repository with branches to help keep my work organized and make projects easier when working with others. Furthermore, I learned how to make commits and introduce changes with pull requests. 
   
   **Lessons Completed:**
   <ul>
@@ -19,6 +19,10 @@ Click on the drop-down menus below to see a description of each technical skill
     <li>Managing Merge Conflicts</li>
     <li>Securing Workflows</li>
   </ul>
+  <br>
+  
+  **Proof of Completion:**
+  <br>
   <img src="github1.png" alt="Github photo">
   <img src="github2.png" alt="Github photo">
   
@@ -29,14 +33,15 @@ Click on the drop-down menus below to see a description of each technical skill
 
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
-  I completed the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX. I learned how to create and edit a dashboard, create a report based off excel data, and better interpret data.
+  I completed the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX. I learned how to create and edit a dashboard, create a report based off excel data, and better interpret data. These skills will help me in the future if I ever need to put together data and present it. PowerBI allows users to better understand the information they are looking at and help point out the most important aspects. 
 <br>
   
   **Proof of Completion:**
   <br>
-  <a href="Course | DAT207x | edX.pdf">edX Course</a>
-  
-  <a href="https://youtu.be/BKjC5Wvp-Rc">Dashboard Tour</a>
+  <img src="PowerBI1.png" alt="PBI photo">
+  <img src="PowerBI2.png" alt="PBI2 photo">
+  <img src="PowerBI3.png" alt="PBI3 photo">
+
   
   
   
@@ -78,7 +83,7 @@ Click on the drop-down menus below to see a description of each technical skill
   
   **Proof of Completion:**
   <br>
-  <a href="doc.pdf">Linux Certification</a>
+  <img src="Linux.png" alt="Linux photo">
   
 </details>
 
@@ -127,8 +132,10 @@ Click on the drop-down menus below to see a description of each technical skill
 
 <br>
 
-<details><summary>Salesforce</summary>
+<details><summary>Automation Anywhere</summary>
   <h4> Description: </h4>
+  
+  **In Progress**
   
 </details>
 
