@@ -32,7 +32,7 @@ Welcome to my Technical Skills Resume. My name is Anna Kinder. I'm currently a s
 
 <details><summary>PowerBI</summary>
   <h4> Description: </h4>
-  I completed the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX. I learned how to create and edit a dashboard, create a report based off excel data, and better interpret data. These skills will help me in the future if I ever need to put together data and present it. PowerBI allows users to better understand the information they are looking at and help point out the most important aspects. 
+  I completed the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX. I learned how to create and edit a dashboard, create a report based off excel data, and better interpret data. These skills will help me in the future if I ever need to put together data and present it. PowerBI allows users to better understand the information they are looking at and help point out the most important aspects. Using this traning, I was abe to complete my own <a href="https://www.youtube.com/watch?v=BKjC5Wvp-Rc&feature=youtu.be">PowerBI Dashboard</a> using sample data. 
 <br>
   
   **Proof of Completion:**
@@ -112,7 +112,10 @@ Welcome to my Technical Skills Resume. My name is Anna Kinder. I'm currently a s
   
   <br>
   <br>
-**Proof of CompletionL**
+**Proof of Completion:**
+<img src="aws.jpg" alt="AWS Traning">
+<img src="IPSecVPN.png" alt="IPSecVPN">
+<img src="OpenVPN.png" alt="Algo VPN">
 
 </details>
 
@@ -141,6 +144,7 @@ Welcome to my Technical Skills Resume. My name is Anna Kinder. I'm currently a s
   I completed a portion of the Automation Anywhere University Essential Level Prep Courses (MBA Students). I was very excited to learn more about Automation Anywhere because the company I am working for uses it to automate tasks. Though the training provided valuable information, the platform needs some work. I ran into multiple road blocks of not having permission to access courses and learning paths, but completed what I could on the track. This traning gave me a lot of background information into how processes are chosen for automation and how to prioritize what to automate. Additionally, I learned how basic bots work. I really like how Automation Anywhere is friendly towards someone who isn't an expert in programming, but still likes to do it. The pre-built functions allow me to build a bot with knowing the basics of programming. 
   
   **Proof of Work:**
+  <img src="AutomationAnywhere.png" alt="Automation Anywhere">
   
 </details>
 
