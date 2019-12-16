@@ -113,6 +113,7 @@ Welcome to my Technical Skills Resume. My name is Anna Kinder. I'm currently a s
   <br>
   <br>
 **Proof of Completion:**
+
 <img src="aws.jpg" alt="AWS Traning">
 <img src="IPSecVPN.png" alt="IPSecVPN">
 <img src="OpenVPN.png" alt="Algo VPN">
