@@ -1,5 +1,5 @@
 <h1> Anna Kinder's Technical Skills </h1>
-Welcome to my Technical Skills Resume. Click on the drop-down menus below to see a description of each technical skill
+Welcome to my Technical Skills Resume. My name is Anna Kinder. I'm currently a senior at The University of Tulsa, studying Computer Information Systems with a minor in Healthcare Informatics. Click on the drop-down menus below to see a description of each technical skill that I have learned throughout this semester. 
 
 <h2> Skills </h2>
 
@@ -52,7 +52,7 @@ Welcome to my Technical Skills Resume. Click on the drop-down menus below to see
 
 <details><summary>Linux</summary>
   <h4> Description: </h4>
-  I completed Linux Adademy's LPI Linux Essentials Certification Training. 
+  I completed Linux Adademy's LPI Linux Essentials Certification Training. This course taught me about the Linux Operating system, which I did not know a lot about previously. It was very helpful to me to walk through the commands I was learning through training on the Terminal application. I used OS X while taking this course, but I learned more about the different operating systems and what they are useful for. Additionally, I learned about security, including, user types/groups, file permissions, and file ownership. 
   
   <br>
   
@@ -90,9 +90,9 @@ Welcome to my Technical Skills Resume. Click on the drop-down menus below to see
 
 <br>
 
-<details><summary>IPSec and OpenVPN</summary>
+<details><summary>AlgoVPN</summary>
   <h4> Description: </h4>
-  I configured a VPN in the cloud using the Algo VPN Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added/removed users.
+  I configured a VPN in the cloud using the Algo VPN Ansible scripts provided by Trail of Bits. With the help of this tutorial, I successfully deployed the Algo server, configured the VPN clients, set up an SSH tunnel, and added/removed users. Though challenging, this skill taught me more than just how to configure a VPN. I was able to use troubleshooting skills and working with fellow classmates to help solve this difficult task. If I ever need to build a VPN again, I have the experience to help guide me through the process. 
   
   <br>
   <br>
@@ -108,7 +108,12 @@ Welcome to my Technical Skills Resume. Click on the drop-down menus below to see
 
 <details><summary>Amazon Web Services (AWS)</summary>
   <h4> Description: </h4>
+  I completed the AWS Essentials training on Linux Academy. This training was very helpful because it provided hands on acitivities, along with videos. Through this training, I was able to set up my own AWS account and apply it. I was able to demonstrate this by setting up an OpenVPN and IPSecVPN using the AWS platform. A large number of companies are moving towards using AWS, and this traning helped me better understand why. 
   
+  <br>
+  <br>
+**Proof of CompletionL**
+
 </details>
 
 <br>
@@ -117,7 +122,7 @@ Welcome to my Technical Skills Resume. Click on the drop-down menus below to see
 
 <details><summary>PowerShell</summary>
   <h4> Description: </h4>
-  I completed LinkedIn's Premium PowerShell 5 Essential Training. In this training I learned install Windows Management Framework 5, run commands, discover commands, find and use local modules, select, store, and filter object data, create scripts, automate tasks, and use PowerShell remotely. 
+  I completed LinkedIn's Premium PowerShell 5 Essential Training. In this training I learned how to install Windows Management Framework 5, run commands, discover commands, find and use local modules, select, store, and filter object data, create scripts, automate tasks, and use PowerShell remotely. I was taught how to get help from the help system, extend Powershell with modules and snap-ins, and automate administrative tasks. 
   
   <br>
   <br>
@@ -133,8 +138,9 @@ Welcome to my Technical Skills Resume. Click on the drop-down menus below to see
 
 <details><summary>Automation Anywhere</summary>
   <h4> Description: </h4>
+  I completed a portion of the Automation Anywhere University Essential Level Prep Courses (MBA Students). I was very excited to learn more about Automation Anywhere because the company I am working for uses it to automate tasks. Though the training provided valuable information, the platform needs some work. I ran into multiple road blocks of not having permission to access courses and learning paths, but completed what I could on the track. This traning gave me a lot of background information into how processes are chosen for automation and how to prioritize what to automate. Additionally, I learned how basic bots work. I really like how Automation Anywhere is friendly towards someone who isn't an expert in programming, but still likes to do it. The pre-built functions allow me to build a bot with knowing the basics of programming. 
   
-  **In Progress**
+  **Proof of Work:**
   
 </details>
 
